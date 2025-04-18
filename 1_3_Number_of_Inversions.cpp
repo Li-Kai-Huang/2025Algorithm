@@ -1,15 +1,5 @@
 #include <bits/stdc++.h>
-<<<<<<< HEAD
-
 using namespace std;
-
-int main()
-{
-
-    return 0;
-}
-=======
-using namespace std ;
 
 int64_t mergeCount(vector<int> &A,vector<int> &Tem , int p , int q, int r) {
     int i = p , j=q+1 , k=p ;
@@ -48,4 +38,4 @@ int main(){
     return 0 ;
 }
 
->>>>>>> ae85f044fc0cf032bd6398c3016b38956802b457
+
