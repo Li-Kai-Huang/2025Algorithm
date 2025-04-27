@@ -4,6 +4,7 @@
         "*.py": "python",
         "*.php": "php",
         "*.m": "matlab",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "algorithm": "cpp"
     }
 }
